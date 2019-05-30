@@ -1,0 +1,6 @@
+framework module Pods_Finglish {
+  umbrella header "Pods-Finglish-umbrella.h"
+
+  export *
+  module * { export * }
+}
