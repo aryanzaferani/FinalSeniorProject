@@ -8,10 +8,12 @@
 
 import UIKit
 
-class WordCell: UITableViewCell {
+class WordCell: UITableViewCell
+{
 
     @IBOutlet weak var word: UILabel!
-    override func awakeFromNib() {
+    override func awakeFromNib()
+    {
         super.awakeFromNib()
         // Initialization code
     }
